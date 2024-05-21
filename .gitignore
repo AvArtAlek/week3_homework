@@ -1,0 +1,6 @@
+touch .gitignore
+git add .gitignore
+
+node_modules
+.DS_Store
+.vscode
